@@ -2,6 +2,20 @@
 Nous offrons une gamme complète de services en Intelligence Artificielle, y compris le développement de stratégies IA, la vision par ordinateur, 
 la science des données, les MLOps, les pipelines de données, le traitement du langage naturel, et la recherche opérationnelle.
 
+[Parlez avec nous](https://meetings.hubspot.com/keven-moreau/rencontrer-updata)
+
+
+![Updata team members](./assets/team-small.jpg)
+
+Members:
+- [@maorzalt](https://github.com/maorzalt)
+- [@kevenmoreau](https://github.com/kevenmoreau)
+- [@afroserom](https://github.com/afroserom)
+- [@henrisve](https://github.com/henrisve)
+- [@ianbenlolo](https://github.com/ianbenlolo)
+- [@Jef808](https://github.com/Jef808)
+- [@Davidnet](https://github.com/Davidnet)
+
 
 
 <!--
